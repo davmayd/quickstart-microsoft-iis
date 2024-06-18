@@ -10,3 +10,6 @@
 	path = submodules/quickstart-microsoft-rdgateway
 	url = https://github.com/aws-quickstart/quickstart-microsoft-rdgateway.git
 	branch = main
+[submodule "submodules/quickstart-microsoft-activedirectory"]
+	path = submodules/quickstart-microsoft-activedirectory
+	branch = main
